@@ -43,3 +43,5 @@ build
 venv
 .vscode
 
+#No doxing plz
+secrets.py
